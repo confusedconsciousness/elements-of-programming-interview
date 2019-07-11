@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Chandravanshi/Documents/GitHub/elements-of-programming-interview/Linked Lists/Reverse a single sublist/main.cpp
+iostream
+-
+
